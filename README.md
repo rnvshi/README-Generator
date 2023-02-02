@@ -7,8 +7,8 @@ A command-line program to quickly generate a professional README.
 
   ## License
   
-This repository is licensed under: 
-![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+This repository is licensed under:
+ ![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
  
 For more information please visit: https://opensource.org/licenses/Apache-2.0
 
@@ -29,11 +29,11 @@ Navigate to the README-Generator directory, open the terminal, and run 'node ind
 
   ## Credits
   
-Starter code cloned from github.come/coding-boot-camp/potential-enigma
+Starter code cloned from https://github.com/coding-boot-camp/potential-enigma
 
   ## Questions
   
- Questions may be directed to github.com/rnvshi
+ Questions may be directed to https://github.com/rnvshi
   
  For further information please email ishaarahman@gmail.com
 

@@ -52,7 +52,7 @@ function renderLicenseSection(license) {
   let licenseLink = renderLicenseLink(license);
 
   if (licenseBadge != "" && licenseLink != "") {
-    let renderedLicense = `This repository is licensed under: \n${licenseBadge}\n \nFor more information please visit: ${licenseLink}`;
+    let renderedLicense = `This repository is licensed under:\n ${licenseBadge}\n \nFor more information please visit: ${licenseLink}`;
     return renderedLicense;
   } else {
     return renderedLicense;
@@ -93,7 +93,7 @@ function generateMarkdown(data) {
   \n${data.credits}
 
   ## Questions
-  \n Questions may be directed to github.com/${data.username}
+  \n Questions may be directed to https://github.com/${data.username}
   \n For further information please email ${data.email}
 
   `;
